@@ -14,3 +14,9 @@ Android Jetpack (AndroidX) libraries available here and libraries you need to ta
 | CardView          | 1.0.0   | [<img src="https://goo.gl/1VmF4W" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-androidx-cardview/1.0.0/.projectset) [android-androidx-cardview](https://github.com/dandar3/android-androidx-cardview/tree/1.0.0) |
 | Constraintlayout  | 1.1.3   | [<img src="https://goo.gl/1VmF4W" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-androidx-constraintlayout/1.1.3/.projectset) [android-androidx-constraintlayout](https://github.com/dandar3/android-androidx-constraintlayout/tree/1.1.3) |
 | Recyclerview      | 1.1.0   | [<img src="https://goo.gl/1VmF4W" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-androidx-recyclerview/1.1.0/.projectset) [android-androidx-recyclerview](https://github.com/dandar3/android-androidx-recyclerview/tree/1.1.0) |
+
+Other related libraries available:
+
+| Library           | Version | Project |
+| ---               | ---     | ---     |
+| Material &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; | 1.0.0   | [<img src="https://goo.gl/1VmF4W" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-material/1.0.0/.projectset) [android-google-material](https://github.com/dandar3/android-google-material/tree/1.0.0) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
