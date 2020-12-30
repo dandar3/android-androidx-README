@@ -4,6 +4,9 @@
 * https://developer.android.com/jetpack
 * https://developer.android.com/jetpack/androidx
 
+**Artifact mapping**<br/>
+* https://developer.android.com/jetpack/androidx/migrate/artifact-mappings
+
 ---
 
 Android Jetpack (AndroidX) libraries available here and libraries you need to take:
