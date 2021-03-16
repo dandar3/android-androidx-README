@@ -19,6 +19,7 @@ Android Jetpack (AndroidX) libraries available here and libraries you need to ta
 | Constraintlayout  | 2.0.4   | [<img src="https://bit.ly/3qHag0x" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-androidx-constraintlayout/2.0.4/.projectset) [android-androidx-constraintlayout](https://github.com/dandar3/android-androidx-constraintlayout/tree/2.0.4) |
 | Recyclerview      | 1.1.0   | [<img src="https://bit.ly/3qHag0x" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-androidx-recyclerview/1.1.0/.projectset) [android-androidx-recyclerview](https://github.com/dandar3/android-androidx-recyclerview/tree/1.1.0) |
 | ViewPager         | 1.0.0   | [<img src="https://bit.ly/3qHag0x" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-androidx-viewpager/1.0.0/.projectset) [android-androidx-viewpager](https://github.com/dandar3/android-androidx-viewpager/tree/1.0.0) |
+| ViewPager2        | 1.0.0   | [<img src="https://bit.ly/3qHag0x" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-androidx-viewpager2/1.0.0/.projectset) [android-androidx-viewpager2](https://github.com/dandar3/android-androidx-viewpager2/tree/1.0.0) |
 
 Other related libraries available:
 
