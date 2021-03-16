@@ -25,4 +25,4 @@ Other related libraries available:
 
 | Library           | Version | Project |
 | ---               | ---     | ---     |
-| Material &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; | 1.0.0   | [<img src="https://bit.ly/3qHag0x" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-material/1.0.0/.projectset) [android-google-material](https://github.com/dandar3/android-google-material/tree/1.0.0) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| Material &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; | 1.2.1   | [<img src="https://bit.ly/3qHag0x" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-material/1.2.1/.projectset) [android-google-material](https://github.com/dandar3/android-google-material/tree/1.2.1) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
